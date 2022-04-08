@@ -1,0 +1,58 @@
+
+
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden;
+}
+
+
+
+ #menu a, button{
+     font-size: 18px; 
+     font-weight: 600;
+    
+ }
+
+ #menu a{
+     color:#3f3f3f;
+     
+ }
+
+
+
+#contenedor-formulario{
+    position:absolute;
+    top:3%;
+    left:30%;
+
+    background-color: #fbfafa;
+    border-radius:5px;
+    
+}
+
+#titulo-formulario {
+    color: #3f3f3f;
+}
+
+
+#contacto{
+    min-height:500px;
+    position:relative;
+}
+.pie {
+	
+    min-height: 100px;
+	background-color: #000080;
+	color: white;
+}
+
+#pie p{
+    text-align:center;
+}
+
+#iconos  i {
+    font-size: 26px;
+    padding: 0 8px;
+    color:#f3f3f3;
+}
