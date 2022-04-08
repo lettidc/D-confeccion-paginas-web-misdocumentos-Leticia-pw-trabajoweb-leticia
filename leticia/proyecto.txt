@@ -1,0 +1,21 @@
+Este proyecto final es de la empresa Multiservicios de las Baleares. 
+Es una empresa de servicios de limpieza, desinfección y otros servicios.
+Esta pagina web esta desarrollada con Boostrap 4.6.
+El sitio web contiene esta estructura: 
+Index (página principal)
+	- Contiene un carousel
+	- Una breve introducción de la empresa
+	- Que es lo que ofrece y cuales son sus garantias.
+	- Pie de página con la dirección, logotipo y asosaciaciones
+Servicios
+	- Una breve introducción de los servicios.
+	- Los servicios que ofrece
+
+Presupuesto
+	- Formulario de contacto para solicitar los presupuesto	
+
+La carpeta documentos contiene los archivos css externos del sitio web
+La carpeta imagenes contiene las imágenes que son utilizadas en el sitio web.
+
+
+
